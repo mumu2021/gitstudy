@@ -31,4 +31,6 @@ git checkout是用版本库里的版本替换工作区的版本
 git remote add orign git@github.com:Mumu2021/gitstudy.git 在本地关联远程库
 git push orign master 把本地master分支的最新修改推送至github
 
-Creating a new branch is quick & simple.
+
+Creating a new branch is quick AND simple.
+
